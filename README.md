@@ -44,7 +44,7 @@ Click on the link that is created and there you go!
 
 ## Deployed Link
 
-* [See Live Site](https://gsandoval09.github.io/NoteTaker/)
+* [See Live Site](https://georgenotetakerapp.herokuapp.com/)
 
 
 ## Authors
