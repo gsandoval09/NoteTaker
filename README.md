@@ -1,9 +1,11 @@
 # NoteTaker
+    
     This application is designed to take notes and give the user a custom option to give their notes a title. This site also stores the list of notes you have created to the left forming a column of your saved notes. If users want to delete a note, they also have the option to delete a note by pressing the trash icon in their selected note. 
 
 
 ## Getting Started
-
+    
+    Copy down the live link from github. Once you have, you can open up a terminal within VS Code and run a NPM install. Once the installation is complete, you can then type in node server.js which will generate a localhost link where you can follow and the link opens the notetakerapp in your local browser. 
 
 
 
