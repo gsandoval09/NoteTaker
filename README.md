@@ -3,7 +3,7 @@ This application is designed to take notes and give the user a custom option to 
 
 
 ## Getting Started
-Copy down the live link from github. Once you have, you can open up a terminal within VS Code and run a NPM install. Once the installation is complete, you can then type in node server.js which will generate a localhost link where you can follow and the link opens the notetakerapp in your local browser. 
+Copy down the live link from github. Once you have, you can open up a terminal within VS Code and "cd" into homework folder. Once inside homework folder "cd" into "develop" folder. Once inside of "develop", you can then  run a NPM install command. Once the installation is complete, you can then type in "node server.js" which will generate a localhost link where you can follow and the link opens the notetakerapp in your local browser. If you go back to the terminal after deleting an item off your list, the terminal should respond back with a "recieved delete request" notifying the user your note has been successfully deleted.
 
 
 
