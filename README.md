@@ -30,6 +30,12 @@ Then run the following command: node server.js
 
 Click on the link that is created and there you go!
 
+## Screenshot of site
+
+![Image](notetaker.png)
+
+![Image](notetaker2.png)
+
 
 
 ## Built With
