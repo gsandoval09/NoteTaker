@@ -4,11 +4,6 @@ const action = require("../db/action")
 router.get("/notes", (req, res) => {
   action.getNotes().then(notes => res.json(notes))
 })
-// router.get("/notes/:id", (req, res) => {
-//   action.getNotes().then(notes =>{
-//   // let noteID = 
-//   res.json(notes[req.params.id])})
-// })
 
 
 
@@ -25,16 +20,3 @@ router.delete("/notes/:id", (req, res) => {
 
 
 module.exports = router
-
-// const app = require('express').Router() 
-// const path = require('path')
-// app.get('/', (req, res) =>
-//   res.sendFile(path.join(__dirname, '../public/db.json'))
-// );
-
-// app.get('/notes', (req, res) =>
-//   res.sendFile(path.join(__dirname, '../public/notes.html'))
-// );
-
-
-// module.exports = app
