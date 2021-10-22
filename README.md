@@ -1,21 +1,19 @@
 # NoteTaker
-
+    This application is designed to take notes and give the user a custom option to give their notes a title. This site also stores the list of notes you have created to the left forming a column of your saved notes. If users want to delete a note, they also have the option to delete a note by pressing the trash icon in their selected note. 
 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+
 
 ### Prerequisites
-NPM install in integrated terminal
 
-```
+-Install Heroku
 
-Then run the following command: node server.js
+-Install Node
 
-```
-Click on the link that is created and there you go!
-
+-Install VS Studio Code
 
 
 ### Installing
@@ -40,7 +38,7 @@ Click on the link that is created and there you go!
 
 ## Deployed Link
 
-* [See Live Site]()
+* [See Live Site](https://gsandoval09.github.io/NoteTaker/)
 
 
 ## Authors
