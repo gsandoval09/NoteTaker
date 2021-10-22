@@ -2,7 +2,8 @@ const express = require('express');
 const api = require('./Routes/apiroute.js');
 const html = require('./Routes/htmlroutes.js');
 
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
+
 
 const app = express();
 app.use(express.static('public'));
