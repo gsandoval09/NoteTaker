@@ -5,6 +5,10 @@ body {
   padding: 0;
 }
 
+.jumbotrontextcenter{
+  color: aqua;
+}
+
 .save-note {
   display: none;
 }
